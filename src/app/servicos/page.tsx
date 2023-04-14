@@ -19,7 +19,7 @@ const ServiceCard = ({
   );
 };
 
-export default function Home() {
+export default function Services() {
   return (
     <main>
       {/* main image */}
